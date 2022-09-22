@@ -64,8 +64,16 @@ h1 {
 
 h2 {
     font-family: "Helvetica";
-    padding: 20px;
+    padding: 40px;
     text-align: center;
+    font-size: 25px;
+}
+
+.titulo .contenido-titulo{
+    font-size: 29%;
+    text-align: center;
+    margin-left: 29%;
+    font-family: "Helvetica";
 }
  
 p {
